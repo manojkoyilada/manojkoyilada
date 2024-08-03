@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @manojkoyilada
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Back end 
-- 💞️ I’m looking to collaborate on Microsoft
+- 🌱 I’m currently learning Back end development
 
 <!---
 manojkoyilada/manojkoyilada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
